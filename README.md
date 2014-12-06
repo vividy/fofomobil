@@ -1,5 +1,3 @@
 fofomobil
 =========
-
-Saluts, vous êtes sur mon site les ga :)
-lol
+http://www.grafikart.fr/tutoriels/php/mvc-model-vue-controller-php-132
